@@ -1,2 +1,2 @@
-# Projeto-Profissional-de-Big-Data_Bora-Pescar
+# Projeto-Profissional-de-Analise_de_Dados_Bora-Pescar
 A ideia central do projeto é desenvolver um MVP do App Bora Pescar, que será utilizado por clientes de pesque e pague, permitindo que façam pedidos online de bebidas, comidas, petiscos e acessórios de pesca diretamente do pier onde estão pescando, utilizando conexão Wi-Fi local. O aplicativo busca facilitar o atendimento em pesqueiros...
